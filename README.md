@@ -46,6 +46,15 @@ Modern e-commerce web app built with React, Redux Toolkit, and Tailwind CSS.
 
 https://fakestoreapi.com
 
+---
+## 🔗 Live
+
+[View Live Project](https://shophub-ecommerce-app.vercel.app/)
+
+---
+
+
 ## 👨‍💻 Author
 
-### Arashad Ahamad
+**Arashad Ahamad**
+- Email: 96arashad@gmail.com
